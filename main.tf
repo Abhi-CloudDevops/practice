@@ -7,7 +7,7 @@ resource "aws_instance" "name" {
     instance_type = "t2.micro"
 
     tags = {
-      Name = "any change it will run"
+      Name = "any change it will run am changing"
     }
   
 }
